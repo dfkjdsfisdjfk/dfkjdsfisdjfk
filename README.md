@@ -1,7 +1,6 @@
 # 👋 Hi there 
 - 🔭 I'm interested in AI, ML, WEB, DB(everything New!)
 
-Cheers to code and beyond! 🌈
 
 ## ✨ Tech Stack ✨ 
 <div align="center">
